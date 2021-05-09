@@ -24,3 +24,6 @@ def get_Abs(a):
     else:
         return -a
 
+def get_Percubt(a,b):
+    return (a/b)*100
+
